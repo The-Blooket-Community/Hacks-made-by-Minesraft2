@@ -6,6 +6,6 @@ From [Githubman6996](https://github.com/Githubman6996)
 
 - The only scripts that work are the ones made by [CryptoDude3](github.com/CryptoDude3)
 
-From [The-Hacks-Community]
+From [The-Hacks-Community](github.com/The-Hacks-Community)
 
 - Sorry for editing the scripts
